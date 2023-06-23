@@ -1,12 +1,16 @@
-### Hi there 👋
-# Hii there, This is Taleb 
+
 ![enter image description here](https://miro.medium.com/v2/resize:fit:828/1*p66mRGcR4gX1CNlpEOH7lg.jpeg)
->Diligent Security Engineer fueled by an unwavering curiosity to explore the intricacies of technology and safeguard digital landscapes. Adept at unraveling complex systems, driven by a passion for cybersecurity and a relentless pursuit of knowledge. **Dedicated to continuous learning and staying ahead of the previous me.** 
+# Hii there, This is Taleb 
+
+Diligent Security Engineer fueled by an unwavering curiosity to explore the intricacies of technology and safeguard digital landscapes. Adept at unraveling complex systems, driven by a passion for cybersecurity and a relentless pursuit of knowledge. **Dedicated to continuous learning and staying ahead of the previous me.** 
+
+
 ## What Do I Do?
 - 🐉 I'm currently working as a Full Time Security Engineer at spiderSilk! 
 - 🌱 I’m currently learning Netrwork Pentesting, and more!
->
-![enter image description here](https://p.rumble.ovh/images/pepe-hacker1.gif)
+- 🐍 I'm in love with python that I can automate my life with it soon.
+
+	![enter image description here](https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47mnqmyho74citsli464l6l524zg07tujofocqimqw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 ## Skills & Stuff
