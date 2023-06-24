@@ -5,12 +5,13 @@
 Diligent Security Engineer fueled by an unwavering curiosity to explore the intricacies of technology and safeguard digital landscapes. Adept at unraveling complex systems, driven by a passion for cybersecurity and a relentless pursuit of knowledge. **Dedicated to continuous learning and staying ahead of the previous me.** 
 
 
+<img hight="200" width="200" alt="GIF" align="right" src="https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47mnqmyho74citsli464l6l524zg07tujofocqimqw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+
 ## What Do I Do?
 - 🐉 I'm currently working as a Full Time Security Engineer at spiderSilk! 
 - 🌱 I’m currently learning Netrwork Pentesting, and more!
 - 🐍 I'm in love with python that I can automate my life with it soon.
-
-	![enter image description here](https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47mnqmyho74citsli464l6l524zg07tujofocqimqw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 ## Skills & Stuff
