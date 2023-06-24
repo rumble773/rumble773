@@ -1,17 +1,22 @@
 
+
 ![enter image description here](https://miro.medium.com/v2/resize:fit:828/1*p66mRGcR4gX1CNlpEOH7lg.jpeg)
 # Hii there, This is Taleb 
 
 Diligent Security Engineer fueled by an unwavering curiosity to explore the intricacies of technology and safeguard digital landscapes. Adept at unraveling complex systems, driven by a passion for cybersecurity and a relentless pursuit of knowledge. **Dedicated to continuous learning and staying ahead of the previous me.** 
 
+----
 
 
 ## What Do I Do?
-<img hight="100" width="100" alt="GIF" align="right" src="https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47mnqmyho74citsli464l6l524zg07tujofocqimqw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+<img hight="150" width="150" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRvZXQyZHFmcGpnMmw0N3d0dHpldjhybnlzYWIzeGxzcm4wdWoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf7ScTyyojrKIqA/giphy.gif">
+
 
 - 🐉 I'm currently working as a Full Time Security Engineer at spiderSilk! 
 - 🌱 I’m currently learning Netrwork Pentesting, and more!
 - 🐍 I'm in love with python that I can automate my life with it soon.
+-  💀 Doing my best...
 
 
 
@@ -26,7 +31,6 @@ Diligent Security Engineer fueled by an unwavering curiosity to explore the intr
 
 
 ## Contact Me
-<img hight="200" width="200" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRvZXQyZHFmcGpnMmw0N3d0dHpldjhybnlzYWIzeGxzcm4wdWoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf7ScTyyojrKIqA/giphy.gif">
 
 <a href="https://www.linkedin.com/in/talebmujahed/" target="_blank">
   <img align="left" alt="Tal LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
