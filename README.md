@@ -7,7 +7,7 @@ Diligent Security Engineer fueled by an unwavering curiosity to explore the intr
 
 
 ## What Do I Do?
-<img hight="200" width="200" alt="GIF" align="right" src="https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47mnqmyho74citsli464l6l524zg07tujofocqimqw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img hight="100" width="100" alt="GIF" align="right" src="https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47mnqmyho74citsli464l6l524zg07tujofocqimqw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🐉 I'm currently working as a Full Time Security Engineer at spiderSilk! 
 - 🌱 I’m currently learning Netrwork Pentesting, and more!
@@ -26,8 +26,7 @@ Diligent Security Engineer fueled by an unwavering curiosity to explore the intr
 
 
 ## Contact Me
-<img hight="200" width="200" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRvZXQyZHFmcGpnMmw0N3d0dHpldjhybnlzYWIzeGxzcm4wdWoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf7ScTyyojrKIqA/giphy.gif
-">
+<img hight="200" width="200" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRvZXQyZHFmcGpnMmw0N3d0dHpldjhybnlzYWIzeGxzcm4wdWoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf7ScTyyojrKIqA/giphy.gif">
 
 <a href="https://www.linkedin.com/in/talebmujahed/" target="_blank">
   <img align="left" alt="Tal LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
