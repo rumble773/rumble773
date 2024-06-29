@@ -1,10 +1,11 @@
 
 
-![enter image description here](https://miro.medium.com/v2/resize:fit:828/1*p66mRGcR4gX1CNlpEOH7lg.jpeg)
-# Hii there, This is Taleb 
+![enter image description here](https://media.licdn.com/dms/image/D4E16AQG0YyL1GPhafA/profile-displaybackgroundimage-shrink_350_1400/0/1719347938511?e=1724889600&v=beta&t=6FueCLLSYMa51xFiAYmUbyerFDRRpZ04WTQt4CUFxvk)
+# Salam, This is Taleb 
 
-Diligent Security Engineer fueled by an unwavering curiosity to explore the intricacies of technology and safeguard digital landscapes. Adept at unraveling complex systems, driven by a passion for cybersecurity and a relentless pursuit of knowledge. **Dedicated to continuous learning and staying ahead of the previous me.** 
+A proactive Security Engineer with a robust skill set encompassing Open-Source Intelligence (OSINT) and Security Automation, I've provided crucial support to government and non-government entities. My contributions include conducting thorough assessments and offering expert guidance, leading to the enhancement of security postures.
 
+[ I do my Best | Security Engineer @ spiderSilk | Automate Security Tasks x AI | Former Mentor and Chair at IEEE HU Student Branch | OSCP | 2xCVEs | AWS CCP | API PT | CTF Player | CCNA ]
 ----
 
 
@@ -13,11 +14,9 @@ Diligent Security Engineer fueled by an unwavering curiosity to explore the intr
 <img hight="150" width="150" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRvZXQyZHFmcGpnMmw0N3d0dHpldjhybnlzYWIzeGxzcm4wdWoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf7ScTyyojrKIqA/giphy.gif">
 
 
-- 🐉 I'm currently working as a Full Time Security Engineer at spiderSilk! 
-- 🌱 I’m currently learning Netrwork Pentesting, and more!
-- 🐍 I'm in love with python that I can automate my life with it soon.
--  💀 Doing my best...
-
+- 🐉 I'm currently working as a Full Time Security Engineer at spiderSilk!
+- 🔥 AI in Security is where I spend most of my time these days!
+- 🥇 Automating tasks, research and more!
 
 
 ## Skills & Stuff
