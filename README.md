@@ -5,7 +5,7 @@
 
 A proactive Security Engineer with a robust skill set encompassing Open-Source Intelligence (OSINT) and Security Automation, I've provided crucial support to government and non-government entities. My contributions include conducting thorough assessments and offering expert guidance, leading to the enhancement of security postures.
 
-[ I do my Best | Security Engineer @ spiderSilk | Automate Security Tasks x AI | Former Mentor and Chair at IEEE HU Student Branch | OSCP | 2xCVEs | AWS CCP | API PT | CTF Player | CCNA ]
+```[ I do my Best | Security Engineer @ spiderSilk | Automate Security Tasks x AI | Former Mentor and Chair at IEEE HU Student Branch | OSCP | 2xCVEs | AWS CCP | API PT | CTF Player | CCNA ]```
 ----
 
 
