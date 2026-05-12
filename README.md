@@ -1,50 +1,92 @@
+<!--
+  ──────────────────────────────────────────────────────────────
+  Taleb Mujahed · {T}
+  OSINT · Security Automation · quiet by default
+  ──────────────────────────────────────────────────────────────
+-->
 
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│                            {T}                               │
+│                                                              │
+│            OSINT  ·  Security Research  ·  Automation        │
+│                spiderSilk  ·  quiet by default               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-![enter image description here](https://media.licdn.com/dms/image/D4E16AQG0YyL1GPhafA/profile-displaybackgroundimage-shrink_350_1400/0/1719347938511?e=1724889600&v=beta&t=6FueCLLSYMa51xFiAYmUbyerFDRRpZ04WTQt4CUFxvk)
-# Salam, This is Taleb 
+```text
+> whoami
+  Taleb Mujahed — Security Engineer @ spiderSilk
+  OSCP  ·  2× CVE  ·  automation maximalist
+```
 
-A proactive Security Engineer with a robust skill set encompassing Open-Source Intelligence (OSINT) and Security Automation, I've provided crucial support to government and non-government entities. My contributions include conducting thorough assessments and offering expert guidance, leading to the enhancement of security postures.
+---
 
-```[ I do my Best | Security Engineer @ spiderSilk | Automate Security Tasks x AI | Former Mentor and Chair at IEEE HU Student Branch | OSCP | 2xCVEs | AWS CCP | API PT | CTF Player | CCNA ]```
+### What I do
 
+I build the internal tools that let analysts skip the manual parts.
 
-----
+OSINT pipelines, scrapers, enrichers, AI-augmented research agents, triage bots, dashboards no one will ever pin. The boring infrastructure of good security work. A four-hour task becomes a four-second run, then runs every hour for two years without anyone touching it.
 
-## What Do I Do?
+Most of it never ships publicly. That's the job.
 
-<img hight="150" width="150" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRvZXQyZHFmcGpnMmw0N3d0dHpldjhybnlzYWIzeGxzcm4wdWoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf7ScTyyojrKIqA/giphy.gif">
+### What I'm into lately
 
+Claude Code, agent orchestration, prompt patterns, evals — applied to security research. Hundreds of hours in. The multiplier is real once you stop treating the model like a chatbot and start treating it like a colleague who never sleeps.
 
-- 🐉 I'm currently working as a Full Time Security Engineer at spiderSilk!
-- 🔥 AI in Security is where I spend most of my time these days!
-- 🥇 Automating tasks, research and more!
+If you're building automation in this space, I'd probably like to talk to you.
 
+---
 
-## Skills & Stuff
+### Stack
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-[![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
+```text
+languages     python · bash · c++
+security      OSINT · API pentesting · attribution · threat research
+automation    claude code · LLM agents · n8n / make · custom pipelines
+cloud         aws · oci · linux, mostly
+daily         zsh · vscode · the terminal
+```
 
+### Selected credentials
 
-## Contact Me
+```text
+OSCP                          Offensive Security              2023
+OCI 2024 Generative AI Pro    Oracle                          2024
+API Penetration Testing       APIsec University               2023
+AWS Cloud Practitioner        Amazon Web Services             2023
+Scientific Computing (Py)     freeCodeCamp                    2024
+Cyber Security Foundation     CertiProf                       2021
+```
 
-<a href="https://www.linkedin.com/in/talebmujahed/" target="_blank">
-  <img align="left" alt="Tal LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-<a href="https://twitter.com/rumble773" target="_blank">
-  <img align="left" alt="rumble's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
-</a>
-<a href="https://medium.com/@rumble773" target="_blank">
-  <img align="left" alt="rt's Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
-</a>
-<a href="https://p.rumble.ovh/" target="_blank">
-  <img align="left" alt="rumble's Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />
-</a>
-<a href="mailto:taleb991@protonmail.com" target="_blank">
-  <img align="left" alt="taleb's E-Mail" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
-</a>
-<br>
+```text
++  2 published CVEs
++  CTF play, when there's time
++  a longer tail of certs that didn't make the cut
+```
+
+---
+
+### How I work
+
+- **Root cause, not symptom.** A patched bug is a returning bug.
+- **Small surface, sharp tools.** One script that runs for two years > ten that rot in a quarter.
+- **Boring and reliable** beats clever and fragile, every time.
+- **Ship, then talk.** The work should speak before I do.
+
+---
+
+### Contact
+
+For work, research, or a sharp question.
+
+[`linkedin`](https://www.linkedin.com/in/talebmujahed/)  ·  [`medium`](https://medium.com/@rumble773)  ·  [`email`](mailto:taleb991@protonmail.com)  ·  [`github`](https://github.com/rumble773)
+
+---
+
+```text
+                                            forged · sealed · signed
+                                  "I do my best"  —  quiet · on purpose
+```
